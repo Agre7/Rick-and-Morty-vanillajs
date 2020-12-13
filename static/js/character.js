@@ -6,7 +6,7 @@ export default class Character {
     this.species = species
     this.status = status
     this.$characterImageContainer = document.querySelector('#character-image-container')
-//        this.$characterImageContainer = document.querySelector('#character-image-container')
+////        this.$characterImageContainer = document.querySelector('#character-image-container')
 
     this.$characterNameContainer = document.querySelector('#character-name-container')
     this.$characterDescriptionContainer = document.querySelector('#character-description-container')
